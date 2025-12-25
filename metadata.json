@@ -1,0 +1,5 @@
+{
+  "name": "DroidArchitect AI",
+  "description": "A sophisticated development environment for Android engineers to explore, generate, and analyze Kotlin/Room boilerplate code using Gemini 3. Includes integrated file browsing and AI-powered coding assistance.",
+  "requestFramePermissions": []
+}
